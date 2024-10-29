@@ -1,1 +1,1 @@
-![Github Header](https://github.com/xwirkijowski/xwirkijowski/blob/42d2e6edcdc2e45b6d5695699c9c34675f08cf91/github.png)
+![Github Header](https://github.com/xwirkijowski/xwirkijowski/blob/2790aec6b050e7105f2aeaf79a78a848a4b8847a/github_banner-2024.png)
