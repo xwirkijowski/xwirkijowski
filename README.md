@@ -16,8 +16,8 @@
 ### Frameworks
 ![Svelte](badges/svelte.png)
 ![React](badges/react.png)
-![Vue](badges/vue.png)
 ![Next.js](badges/next.png)
+![Vue](badges/vue.png)
 ![Express.js](badges/expressjs.png)
 ![Bootstrap](badges/bootstrap.png)
 ![MaterialUI](badges/materialui.png)
