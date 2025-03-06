@@ -30,3 +30,7 @@
 ![Apache2](badges/apache2.png)
 ![Ubuntu](badges/ubuntu.png)
 ![Docker](badges/docker.png)
+
+---
+
+![CodeWars](https://www.codewars.com/users/wirkijowski/badges/small)
