@@ -1,13 +1,12 @@
 ![Sebastian - Atypography](atypography-1.png)
 
----
-
 ![Open for work!](open-for-work.png)
 
 # Hello there!
 
-I'm Sebastian — Full-Stack Developer, SysAdmin, DevOps, and Designer — a Jack-of-All-Trades from Poland.
-In IT since 2013, programming since 2015.
+**I'm Sebastian** _— Full-Stack Developer, SysAdmin, DevOps, and Designer —_ **a Jack-of-All-Trades from Poland.**
+
+In IT since 2013, programming since 2015, with Node.js since 2019.
 
 ## Technologies I work with
 
@@ -59,10 +58,7 @@ In IT since 2013, programming since 2015.
 - [**JavaScript (Intermediate)**](https://www.hackerrank.com/certificates/ec0c9084d54c) — HackerRank, December 2024
 - [**Graph Developer - Professional**](https://www.apollographql.com/tutorials/certifications/5597fc96-d7b7-4a10-bda9-84189dd071cf) — Apollo, March 2023
 
----
-
 ![CodeWars](https://www.codewars.com/users/wirkijowski/badges/small)
 
----
 
 ![Wirkijowski - Atypography](atypography-2.png)
