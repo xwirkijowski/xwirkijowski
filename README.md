@@ -1,7 +1,5 @@
 ![Sebastian - Atypography](atypography-1.png)
 
-![Open for work!](open-for-work.png)
-
 # Hello there!
 
 **I'm Sebastian** _— Full-Stack Developer, SysAdmin, DevOps, and Designer —_ **a Jack-of-All-Trades from Poland.**
