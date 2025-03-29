@@ -2,7 +2,7 @@
 
 # Hello there!
 
-**I'm Sebastian** _— Full-Stack Developer, SysAdmin, DevOps, and Designer —_ **a Jack-of-All-Trades from Poland.**
+**I'm Sebastian** _— Full-Stack Engineer, SysAdmin, DevOps, and Designer —_ **a Jack-of-All-Trades from Poland.**
 
 In IT since 2013, programming since 2015, with Node.js since 2019.
 
