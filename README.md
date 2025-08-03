@@ -2,9 +2,13 @@
 
 # Hello there!
 
-**I'm Sebastian** _— Full-Stack Engineer, SysAdmin, DevOps, and Designer —_ **a Jack-of-All-Trades from Poland.**
+**I'm Sebastian** _— Full-Stack Engineer, SysAdmin, DevOps, Product Owner and Designer —_ **a Jack-of-All-Trades from Poland.**
 
 In IT since 2013, programming since 2015, with Node.js since 2019.
+
+## Recent Highlights
+- Developed and lunched **[EmbedBase](https://embedbase.com/)** - a data-vectorization platform with semantic search and chat funcionality
+- Developed **[Agent Monitor](https://agentmonitor.io/)** - bot-centric traffic and referal analysis platform
 
 ## Technologies I work with
 
